@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "seamcarving",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/SeamCarving",
+      "state" : {
+        "revision" : "f5dd271542dac2e4a81ee1090bee6aec96f31295",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
